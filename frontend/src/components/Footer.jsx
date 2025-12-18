@@ -1,3 +1,7 @@
+import React from "react";
+import { Button } from "@/components/ui/button"; // ShadCN UI Button
+import { Facebook, Twitter, Linkedin, Instagram } from "lucide-react";
+
 const Footer = () => {
   return (
     <footer className="bg-gray-900 text-gray-200 pt-12 pb-5">
