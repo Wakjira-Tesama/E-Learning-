@@ -1,12 +1,3 @@
-import React from "react";
-import { Button } from "@/components/ui/button"; // ShadCN UI Button
-import { 
-  Facebook, 
-  Twitter, 
-  Linkedin, 
-  Instagram 
-} from "lucide-react";
-
 const Footer = () => {
   return (
     <footer className="bg-gray-900 text-gray-200 pt-12 pb-5">
@@ -61,7 +52,9 @@ const Footer = () => {
 
           {/* Newsletter Section */}
           <div>
-            <h2 className="text-xl font-semibold mb-4">Subscribe to Newsletter</h2>
+            <h2 className="text-xl font-semibold mb-4">
+              Subscribe to Newsletter
+            </h2>
             <p className="text-sm mb-4">
               Stay updated with the latest courses and news.
             </p>
@@ -93,7 +86,6 @@ const Footer = () => {
             <Instagram size={20} />
           </a>
         </div>
- 
       </div>
     </footer>
   );
