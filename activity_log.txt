@@ -1,0 +1,1 @@
+[Thu Jan 01 09:29:27 2026 +0300] style: improve form input styling
