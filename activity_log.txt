@@ -15,3 +15,4 @@
 [Fri Jan 02 10:25:57 2026 +0300] docs: add contribution guidelines
 [Fri Jan 02 10:57:47 2026 +0300] style: enhance button hover effects
 [Fri Jan 02 11:12:48 2026 +0300] fix: correct course progress calculation
+[Fri Jan 02 13:04:16 2026 +0300] refactor: optimize frontend bundle size
