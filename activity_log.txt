@@ -26,3 +26,4 @@
 [Sat Jan 03 13:21:39 2026 +0300] feat: create admin dashboard components
 [Sat Jan 03 13:25:56 2026 +0300] feat: create discussion forum component
 [Sat Jan 03 14:02:35 2026 +0300] fix: correct course enrollment validation
+[Sat Jan 03 14:59:12 2026 +0300] docs: update API documentation
