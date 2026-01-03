@@ -29,3 +29,4 @@
 [Sat Jan 03 14:59:12 2026 +0300] docs: update API documentation
 [Sat Jan 03 18:17:26 2026 +0300] refactor: improve authentication middleware
 [Sat Jan 03 18:36:42 2026 +0300] fix: correct pagination in course listing
+[Sat Jan 03 20:24:14 2026 +0300] docs: update README with features
