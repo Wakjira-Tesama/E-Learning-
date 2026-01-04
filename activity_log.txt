@@ -35,3 +35,4 @@
 [Sun Jan 04 08:39:24 2026 +0300] refactor: optimize database queries for courses
 [Sun Jan 04 09:01:33 2026 +0300] fix: address quiz submission error handling
 [Sun Jan 04 09:17:04 2026 +0300] style: enhance mobile navigation menu
+[Sun Jan 04 11:05:31 2026 +0300] chore: update dependencies to latest versions
