@@ -38,3 +38,4 @@
 [Sun Jan 04 11:05:31 2026 +0300] chore: update dependencies to latest versions
 [Sun Jan 04 11:49:07 2026 +0300] feat: implement instructor analytics panel
 [Sun Jan 04 13:09:01 2026 +0300] feat: implement course enrollment system
+[Sun Jan 04 13:51:43 2026 +0300] feat: implement certificate generation
