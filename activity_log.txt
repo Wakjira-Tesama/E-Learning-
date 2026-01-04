@@ -32,3 +32,4 @@
 [Sat Jan 03 20:24:14 2026 +0300] docs: update README with features
 [Sun Jan 04 08:27:07 2026 +0300] style: enhance button hover effects
 [Sun Jan 04 08:29:08 2026 +0300] docs: add deployment documentation
+[Sun Jan 04 08:39:24 2026 +0300] refactor: optimize database queries for courses
