@@ -56,3 +56,4 @@
 [Mon Jan 05 20:20:51 2026 +0300] fix: resolve certificate download issue
 [Mon Jan 05 20:27:03 2026 +0300] refactor: optimize image loading performance
 [Mon Jan 05 20:57:17 2026 +0300] refactor: restructure API endpoints
+[Mon Jan 05 21:20:14 2026 +0300] docs: update README with features
