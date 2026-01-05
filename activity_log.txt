@@ -58,3 +58,4 @@
 [Mon Jan 05 20:57:17 2026 +0300] refactor: restructure API endpoints
 [Mon Jan 05 21:20:14 2026 +0300] docs: update README with features
 [Mon Jan 05 22:02:49 2026 +0300] style: update course card design
+[Mon Jan 05 22:08:24 2026 +0300] fix: resolve certificate download issue
