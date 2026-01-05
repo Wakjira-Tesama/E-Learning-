@@ -49,3 +49,4 @@
 [Mon Jan 05 12:22:34 2026 +0300] fix: resolve user session management issues
 [Mon Jan 05 14:12:29 2026 +0300] style: update color scheme for accessibility
 [Mon Jan 05 15:39:19 2026 +0300] test: update test coverage for user module
+[Mon Jan 05 17:30:56 2026 +0300] docs: add contribution guidelines
