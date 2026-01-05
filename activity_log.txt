@@ -53,3 +53,4 @@
 [Mon Jan 05 18:01:13 2026 +0300] style: improve loading spinner animation
 [Mon Jan 05 19:27:21 2026 +0300] test: add unit tests for course service
 [Mon Jan 05 19:36:59 2026 +0300] feat: add course search and filter functionality
+[Mon Jan 05 20:20:51 2026 +0300] fix: resolve certificate download issue
