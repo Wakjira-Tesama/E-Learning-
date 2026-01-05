@@ -51,3 +51,4 @@
 [Mon Jan 05 15:39:19 2026 +0300] test: update test coverage for user module
 [Mon Jan 05 17:30:56 2026 +0300] docs: add contribution guidelines
 [Mon Jan 05 18:01:13 2026 +0300] style: improve loading spinner animation
+[Mon Jan 05 19:27:21 2026 +0300] test: add unit tests for course service
