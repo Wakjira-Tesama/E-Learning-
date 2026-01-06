@@ -62,3 +62,4 @@
 [Mon Jan 05 22:52:56 2026 +0300] test: implement integration tests for auth
 [Tue Jan 06 08:07:23 2026 +0300] refactor: restructure user service layer
 [Tue Jan 06 08:16:30 2026 +0300] refactor: restructure course module components
+[Tue Jan 06 10:01:53 2026 +0300] refactor: optimize image loading performance
