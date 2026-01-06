@@ -74,3 +74,4 @@
 [Tue Jan 06 19:42:05 2026 +0300] docs: add contribution guidelines
 [Tue Jan 06 20:11:36 2026 +0300] chore: update build configuration
 [Tue Jan 06 20:50:48 2026 +0300] test: update test coverage for user module
+[Tue Jan 06 21:51:50 2026 +0300] refactor: restructure API endpoints
