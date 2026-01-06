@@ -65,3 +65,4 @@
 [Tue Jan 06 10:01:53 2026 +0300] refactor: optimize image loading performance
 [Tue Jan 06 11:51:52 2026 +0300] style: improve loading spinner animation
 [Tue Jan 06 12:33:21 2026 +0300] feat: create payment integration module
+[Tue Jan 06 13:56:41 2026 +0300] docs: add course creation guidelines
