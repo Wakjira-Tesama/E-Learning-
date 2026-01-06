@@ -72,3 +72,4 @@
 [Tue Jan 06 17:20:04 2026 +0300] test: add unit tests for course service
 [Tue Jan 06 17:49:59 2026 +0300] fix: resolve database connection pooling
 [Tue Jan 06 19:42:05 2026 +0300] docs: add contribution guidelines
+[Tue Jan 06 20:11:36 2026 +0300] chore: update build configuration
