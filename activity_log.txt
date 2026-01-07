@@ -83,3 +83,4 @@
 [Wed Jan 07 13:40:50 2026 +0300] style: enhance button hover effects
 [Wed Jan 07 14:22:22 2026 +0300] test: add e2e tests for enrollment flow
 [Wed Jan 07 15:48:40 2026 +0300] feat: create quiz assessment module
+[Wed Jan 07 17:55:23 2026 +0300] style: update course card design
