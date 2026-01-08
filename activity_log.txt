@@ -101,3 +101,4 @@
 [Thu Jan 08 13:42:22 2026 +0300] fix: resolve database connection pooling
 [Thu Jan 08 15:02:12 2026 +0300] feat: implement course enrollment system
 [Thu Jan 08 18:08:49 2026 +0300] feat: create admin dashboard components
+[Thu Jan 08 22:23:01 2026 +0300] fix: correct user role permission checks
