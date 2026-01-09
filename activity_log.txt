@@ -110,3 +110,4 @@
 [Fri Jan 09 15:52:36 2026 +0300] refactor: restructure user service layer
 [Fri Jan 09 15:59:33 2026 +0300] fix: correct course progress calculation
 [Fri Jan 09 20:38:34 2026 +0300] feat: create payment integration module
+[Fri Jan 09 22:16:53 2026 +0300] fix: correct pagination in course listing
