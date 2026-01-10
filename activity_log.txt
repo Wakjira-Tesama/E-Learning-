@@ -121,3 +121,4 @@
 [Sat Jan 10 15:57:56 2026 +0300] docs: add contribution guidelines
 [Sat Jan 10 16:49:57 2026 +0300] feat: implement certificate generation
 [Sat Jan 10 20:06:10 2026 +0300] feat: create admin dashboard components
+[Sat Jan 10 21:44:54 2026 +0300] refactor: optimize frontend bundle size
