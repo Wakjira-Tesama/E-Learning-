@@ -118,3 +118,4 @@
 [Sat Jan 10 13:53:55 2026 +0300] test: add unit tests for course service
 [Sat Jan 10 14:46:16 2026 +0300] chore: clean up unused imports
 [Sat Jan 10 14:54:43 2026 +0300] feat: add user progress tracking functionality
+[Sat Jan 10 15:57:56 2026 +0300] docs: add contribution guidelines
