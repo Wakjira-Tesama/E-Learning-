@@ -130,3 +130,4 @@
 [Sun Jan 11 15:41:45 2026 +0300] style: improve form input styling
 [Sun Jan 11 16:31:03 2026 +0300] fix: correct course enrollment validation
 [Sun Jan 11 17:43:27 2026 +0300] fix: address notification delivery timing
+[Sun Jan 11 18:05:34 2026 +0300] feat: implement certificate generation
