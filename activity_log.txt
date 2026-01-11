@@ -127,3 +127,4 @@
 [Sun Jan 11 14:13:02 2026 +0300] docs: update README with features
 [Sun Jan 11 14:41:28 2026 +0300] refactor: improve state management logic
 [Sun Jan 11 15:40:23 2026 +0300] feat: implement course enrollment system
+[Sun Jan 11 15:41:45 2026 +0300] style: improve form input styling
