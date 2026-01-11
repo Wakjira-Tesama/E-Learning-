@@ -124,3 +124,4 @@
 [Sat Jan 10 21:44:54 2026 +0300] refactor: optimize frontend bundle size
 [Sat Jan 10 22:21:55 2026 +0300] docs: update installation instructions
 [Sun Jan 11 13:18:44 2026 +0300] docs: update README with features
+[Sun Jan 11 14:13:02 2026 +0300] docs: update README with features
