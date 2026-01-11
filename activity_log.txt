@@ -135,3 +135,4 @@
 [Sun Jan 11 19:11:11 2026 +0300] refactor: restructure API endpoints
 [Sun Jan 11 20:16:19 2026 +0300] feat: implement certificate generation
 [Sun Jan 11 20:36:33 2026 +0300] style: enhance button hover effects
+[Sun Jan 11 22:52:35 2026 +0300] refactor: restructure API endpoints
