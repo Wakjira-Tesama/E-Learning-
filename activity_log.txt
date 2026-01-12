@@ -146,3 +146,4 @@
 [Mon Jan 12 16:05:09 2026 +0300] chore: update package versions
 [Mon Jan 12 16:37:11 2026 +0300] fix: resolve certificate download issue
 [Mon Jan 12 17:06:42 2026 +0300] fix: resolve certificate download issue
+[Mon Jan 12 19:46:24 2026 +0300] refactor: improve error handling patterns
