@@ -145,3 +145,4 @@
 [Mon Jan 12 15:29:28 2026 +0300] fix: address responsive design issues
 [Mon Jan 12 16:05:09 2026 +0300] chore: update package versions
 [Mon Jan 12 16:37:11 2026 +0300] fix: resolve certificate download issue
+[Mon Jan 12 17:06:42 2026 +0300] fix: resolve certificate download issue
