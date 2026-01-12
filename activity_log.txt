@@ -140,3 +140,4 @@
 [Mon Jan 12 09:01:33 2026 +0300] chore: configure linting rules
 [Mon Jan 12 09:56:01 2026 +0300] refactor: optimize database queries for courses
 [Mon Jan 12 12:20:21 2026 +0300] feat: create quiz assessment module
+[Mon Jan 12 12:56:36 2026 +0300] fix: correct API error responses
