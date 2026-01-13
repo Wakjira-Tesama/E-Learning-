@@ -158,3 +158,4 @@
 [Tue Jan 13 12:55:36 2026 +0300] style: improve form input styling
 [Tue Jan 13 17:48:06 2026 +0300] fix: resolve user session management issues
 [Tue Jan 13 21:12:17 2026 +0300] feat: implement instructor analytics panel
+[Tue Jan 13 22:18:14 2026 +0300] docs: update installation instructions
