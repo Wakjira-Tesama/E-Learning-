@@ -150,3 +150,4 @@
 [Mon Jan 12 22:35:25 2026 +0300] fix: correct pagination in course listing
 [Tue Jan 13 09:14:10 2026 +0300] chore: update dependencies to latest versions
 [Tue Jan 13 10:32:29 2026 +0300] docs: update API documentation
+[Tue Jan 13 10:53:10 2026 +0300] fix: correct API error responses
