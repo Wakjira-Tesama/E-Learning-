@@ -148,3 +148,4 @@
 [Mon Jan 12 17:06:42 2026 +0300] fix: resolve certificate download issue
 [Mon Jan 12 19:46:24 2026 +0300] refactor: improve error handling patterns
 [Mon Jan 12 22:35:25 2026 +0300] fix: correct pagination in course listing
+[Tue Jan 13 09:14:10 2026 +0300] chore: update dependencies to latest versions
