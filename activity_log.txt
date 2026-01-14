@@ -166,3 +166,4 @@
 [Wed Jan 14 11:44:51 2026 +0300] fix: correct API error responses
 [Wed Jan 14 12:55:11 2026 +0300] fix: correct course progress calculation
 [Wed Jan 14 13:49:53 2026 +0300] refactor: improve authentication middleware
+[Wed Jan 14 14:37:52 2026 +0300] feat: implement course enrollment system
