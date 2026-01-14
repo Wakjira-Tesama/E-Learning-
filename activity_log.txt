@@ -172,3 +172,4 @@
 [Wed Jan 14 16:28:49 2026 +0300] docs: update installation instructions
 [Wed Jan 14 18:20:10 2026 +0300] feat: implement file upload for assignments
 [Wed Jan 14 18:30:41 2026 +0300] fix: address quiz submission error handling
+[Wed Jan 14 20:06:39 2026 +0300] chore: update environment configuration
