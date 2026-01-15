@@ -188,3 +188,4 @@
 [Thu Jan 15 18:54:16 2026 +0300] docs: add deployment documentation
 [Thu Jan 15 21:16:35 2026 +0300] refactor: optimize image loading performance
 [Thu Jan 15 21:18:25 2026 +0300] test: add e2e tests for enrollment flow
+[Thu Jan 15 21:38:18 2026 +0300] style: enhance button hover effects
