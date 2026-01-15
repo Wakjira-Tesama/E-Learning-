@@ -190,3 +190,4 @@
 [Thu Jan 15 21:18:25 2026 +0300] test: add e2e tests for enrollment flow
 [Thu Jan 15 21:38:18 2026 +0300] style: enhance button hover effects
 [Thu Jan 15 22:43:46 2026 +0300] feat: add course category management
+[Thu Jan 15 22:45:56 2026 +0300] docs: update README with features
