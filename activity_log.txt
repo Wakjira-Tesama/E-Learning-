@@ -176,3 +176,4 @@
 [Wed Jan 14 21:10:01 2026 +0300] docs: update installation instructions
 [Wed Jan 14 22:30:50 2026 +0300] feat: create admin dashboard components
 [Wed Jan 14 22:57:56 2026 +0300] feat: add course category management
+[Thu Jan 15 08:01:37 2026 +0300] style: improve form input styling
