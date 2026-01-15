@@ -189,3 +189,4 @@
 [Thu Jan 15 21:16:35 2026 +0300] refactor: optimize image loading performance
 [Thu Jan 15 21:18:25 2026 +0300] test: add e2e tests for enrollment flow
 [Thu Jan 15 21:38:18 2026 +0300] style: enhance button hover effects
+[Thu Jan 15 22:43:46 2026 +0300] feat: add course category management
