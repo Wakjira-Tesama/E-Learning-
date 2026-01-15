@@ -185,3 +185,4 @@
 [Thu Jan 15 13:36:14 2026 +0300] fix: address quiz submission error handling
 [Thu Jan 15 14:48:18 2026 +0300] chore: configure CI/CD pipeline
 [Thu Jan 15 17:40:23 2026 +0300] style: enhance button hover effects
+[Thu Jan 15 18:54:16 2026 +0300] docs: add deployment documentation
