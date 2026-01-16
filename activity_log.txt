@@ -198,3 +198,4 @@
 [Fri Jan 16 12:56:03 2026 +0300] feat: add video player component for lessons
 [Fri Jan 16 13:14:48 2026 +0300] refactor: restructure API endpoints
 [Fri Jan 16 13:34:19 2026 +0300] feat: implement bookmark functionality
+[Fri Jan 16 14:49:40 2026 +0300] fix: address cross-browser compatibility
