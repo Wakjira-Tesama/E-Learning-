@@ -191,3 +191,4 @@
 [Thu Jan 15 21:38:18 2026 +0300] style: enhance button hover effects
 [Thu Jan 15 22:43:46 2026 +0300] feat: add course category management
 [Thu Jan 15 22:45:56 2026 +0300] docs: update README with features
+[Fri Jan 16 08:05:37 2026 +0300] fix: correct course progress calculation
