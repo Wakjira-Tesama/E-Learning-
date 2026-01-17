@@ -210,3 +210,4 @@
 [Sat Jan 17 09:04:29 2026 +0300] docs: update API documentation
 [Sat Jan 17 09:14:05 2026 +0300] chore: update package versions
 [Sat Jan 17 09:23:14 2026 +0300] style: update typography across platform
+[Sat Jan 17 09:31:02 2026 +0300] fix: correct API error responses
