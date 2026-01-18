@@ -233,3 +233,4 @@
 [Sun Jan 18 16:51:04 2026 +0300] feat: add course category management
 [Sun Jan 18 17:55:45 2026 +0300] docs: add contribution guidelines
 [Sun Jan 18 19:43:30 2026 +0300] feat: add video player component for lessons
+[Sun Jan 18 19:59:20 2026 +0300] chore: update build configuration
