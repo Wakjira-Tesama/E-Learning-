@@ -231,3 +231,4 @@
 [Sun Jan 18 13:37:25 2026 +0300] docs: add contribution guidelines
 [Sun Jan 18 15:19:12 2026 +0300] test: add e2e tests for enrollment flow
 [Sun Jan 18 16:51:04 2026 +0300] feat: add course category management
+[Sun Jan 18 17:55:45 2026 +0300] docs: add contribution guidelines
