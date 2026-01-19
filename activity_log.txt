@@ -242,3 +242,4 @@
 [Mon Jan 19 12:17:01 2026 +0300] fix: resolve video playback issues on mobile
 [Mon Jan 19 12:17:58 2026 +0300] fix: address quiz submission error handling
 [Mon Jan 19 13:45:22 2026 +0300] test: implement integration tests for auth
+[Mon Jan 19 14:03:08 2026 +0300] chore: configure CI/CD pipeline
