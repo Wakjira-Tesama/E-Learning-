@@ -237,3 +237,4 @@
 [Sun Jan 18 21:00:36 2026 +0300] fix: correct course progress calculation
 [Mon Jan 19 09:06:38 2026 +0300] fix: correct course enrollment validation
 [Mon Jan 19 09:22:58 2026 +0300] fix: resolve video playback issues on mobile
+[Mon Jan 19 11:15:53 2026 +0300] fix: address quiz submission error handling
