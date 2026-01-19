@@ -239,3 +239,4 @@
 [Mon Jan 19 09:22:58 2026 +0300] fix: resolve video playback issues on mobile
 [Mon Jan 19 11:15:53 2026 +0300] fix: address quiz submission error handling
 [Mon Jan 19 12:11:15 2026 +0300] docs: add deployment documentation
+[Mon Jan 19 12:17:01 2026 +0300] fix: resolve video playback issues on mobile
