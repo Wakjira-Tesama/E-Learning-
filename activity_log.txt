@@ -243,3 +243,4 @@
 [Mon Jan 19 12:17:58 2026 +0300] fix: address quiz submission error handling
 [Mon Jan 19 13:45:22 2026 +0300] test: implement integration tests for auth
 [Mon Jan 19 14:03:08 2026 +0300] chore: configure CI/CD pipeline
+[Mon Jan 19 14:17:00 2026 +0300] fix: resolve certificate download issue
