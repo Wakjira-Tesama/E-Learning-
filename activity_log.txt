@@ -247,3 +247,4 @@
 [Mon Jan 19 16:15:07 2026 +0300] fix: address quiz submission error handling
 [Mon Jan 19 18:57:54 2026 +0300] refactor: restructure user service layer
 [Mon Jan 19 20:19:24 2026 +0300] fix: address cross-browser compatibility
+[Mon Jan 19 21:28:01 2026 +0300] docs: add deployment documentation
