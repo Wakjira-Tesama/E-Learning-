@@ -251,3 +251,4 @@
 [Mon Jan 19 21:51:48 2026 +0300] feat: create payment integration module
 [Mon Jan 19 22:10:20 2026 +0300] feat: implement instructor analytics panel
 [Tue Jan 20 08:04:45 2026 +0300] docs: add course creation guidelines
+[Tue Jan 20 08:17:11 2026 +0300] fix: resolve memory leak in video component
