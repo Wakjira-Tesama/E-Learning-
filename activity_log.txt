@@ -273,3 +273,4 @@
 [Wed Jan 21 18:23:32 2026 +0300] feat: implement user authentication flow
 [Wed Jan 21 18:58:06 2026 +0300] feat: implement bookmark functionality
 [Wed Jan 21 22:28:50 2026 +0300] feat: add video player component for lessons
+[Wed Jan 21 22:32:25 2026 +0300] docs: add deployment documentation
