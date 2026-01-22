@@ -287,3 +287,4 @@
 [Thu Jan 22 18:07:07 2026 +0300] style: update course card design
 [Thu Jan 22 18:12:06 2026 +0300] test: add e2e tests for enrollment flow
 [Thu Jan 22 20:57:56 2026 +0300] test: add unit tests for course service
+[Thu Jan 22 21:22:21 2026 +0300] docs: add deployment documentation
