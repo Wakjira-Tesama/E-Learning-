@@ -279,3 +279,4 @@
 [Thu Jan 22 09:42:56 2026 +0300] test: update test coverage for user module
 [Thu Jan 22 11:25:52 2026 +0300] refactor: improve error handling patterns
 [Thu Jan 22 11:46:03 2026 +0300] feat: create lesson completion tracking
+[Thu Jan 22 13:07:10 2026 +0300] feat: implement certificate generation
