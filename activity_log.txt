@@ -281,3 +281,4 @@
 [Thu Jan 22 11:46:03 2026 +0300] feat: create lesson completion tracking
 [Thu Jan 22 13:07:10 2026 +0300] feat: implement certificate generation
 [Thu Jan 22 15:30:18 2026 +0300] test: add tests for payment processing
+[Thu Jan 22 15:51:37 2026 +0300] fix: correct user role permission checks
