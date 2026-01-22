@@ -277,3 +277,4 @@
 [Thu Jan 22 09:02:31 2026 +0300] test: add unit tests for course service
 [Thu Jan 22 09:39:06 2026 +0300] feat: add course category management
 [Thu Jan 22 09:42:56 2026 +0300] test: update test coverage for user module
+[Thu Jan 22 11:25:52 2026 +0300] refactor: improve error handling patterns
