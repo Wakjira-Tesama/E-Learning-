@@ -308,3 +308,4 @@
 [Sat Jan 24 08:02:18 2026 +0300] feat: create quiz assessment module
 [Sat Jan 24 09:06:57 2026 +0300] feat: add course search and filter functionality
 [Sat Jan 24 10:01:01 2026 +0300] chore: configure linting rules
+[Sat Jan 24 11:31:16 2026 +0300] refactor: optimize database queries for courses
