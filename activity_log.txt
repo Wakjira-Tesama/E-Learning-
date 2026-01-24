@@ -310,3 +310,4 @@
 [Sat Jan 24 10:01:01 2026 +0300] chore: configure linting rules
 [Sat Jan 24 11:31:16 2026 +0300] refactor: optimize database queries for courses
 [Sat Jan 24 12:04:56 2026 +0300] feat: add video player component for lessons
+[Sat Jan 24 12:09:36 2026 +0300] chore: configure CI/CD pipeline
