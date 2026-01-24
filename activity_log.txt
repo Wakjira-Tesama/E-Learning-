@@ -306,3 +306,4 @@
 [Fri Jan 23 21:02:00 2026 +0300] fix: address quiz submission error handling
 [Fri Jan 23 22:51:38 2026 +0300] fix: resolve video playback issues on mobile
 [Sat Jan 24 08:02:18 2026 +0300] feat: create quiz assessment module
+[Sat Jan 24 09:06:57 2026 +0300] feat: add course search and filter functionality
