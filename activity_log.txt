@@ -331,3 +331,4 @@
 [Mon Jan 26 09:26:43 2026 +0300] feat: implement course enrollment system
 [Mon Jan 26 10:23:52 2026 +0300] fix: resolve certificate download issue
 [Mon Jan 26 10:37:41 2026 +0300] style: improve dashboard layout styling
+[Mon Jan 26 11:26:06 2026 +0300] fix: address responsive design issues
