@@ -337,3 +337,4 @@
 [Mon Jan 26 18:20:57 2026 +0300] fix: correct course progress calculation
 [Mon Jan 26 18:53:57 2026 +0300] refactor: optimize database queries for courses
 [Mon Jan 26 20:27:18 2026 +0300] docs: update API documentation
+[Mon Jan 26 21:00:31 2026 +0300] fix: correct API error responses
