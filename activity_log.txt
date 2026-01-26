@@ -334,3 +334,4 @@
 [Mon Jan 26 11:26:06 2026 +0300] fix: address responsive design issues
 [Mon Jan 26 11:51:14 2026 +0300] docs: update README with features
 [Mon Jan 26 17:16:55 2026 +0300] test: implement integration tests for auth
+[Mon Jan 26 18:20:57 2026 +0300] fix: correct course progress calculation
