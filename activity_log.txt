@@ -339,3 +339,4 @@
 [Mon Jan 26 20:27:18 2026 +0300] docs: update API documentation
 [Mon Jan 26 21:00:31 2026 +0300] fix: correct API error responses
 [Mon Jan 26 21:43:27 2026 +0300] fix: correct pagination in course listing
+[Mon Jan 26 22:04:04 2026 +0300] fix: address quiz submission error handling
