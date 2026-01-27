@@ -347,3 +347,4 @@
 [Tue Jan 27 13:18:15 2026 +0300] refactor: optimize course content delivery
 [Tue Jan 27 14:27:43 2026 +0300] refactor: restructure user service layer
 [Tue Jan 27 15:32:40 2026 +0300] feat: create discussion forum component
+[Tue Jan 27 16:06:36 2026 +0300] chore: configure CI/CD pipeline
