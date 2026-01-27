@@ -350,3 +350,4 @@
 [Tue Jan 27 16:06:36 2026 +0300] chore: configure CI/CD pipeline
 [Tue Jan 27 17:03:24 2026 +0300] chore: update dependencies to latest versions
 [Tue Jan 27 17:10:54 2026 +0300] refactor: restructure course module components
+[Tue Jan 27 19:00:38 2026 +0300] refactor: optimize frontend bundle size
