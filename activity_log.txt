@@ -342,3 +342,4 @@
 [Mon Jan 26 22:04:04 2026 +0300] fix: address quiz submission error handling
 [Tue Jan 27 08:29:04 2026 +0300] feat: create discussion forum component
 [Tue Jan 27 08:49:15 2026 +0300] fix: correct API error responses
+[Tue Jan 27 10:38:40 2026 +0300] fix: correct user role permission checks
