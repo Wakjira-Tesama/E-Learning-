@@ -360,3 +360,4 @@
 [Wed Jan 28 11:38:37 2026 +0300] docs: add contribution guidelines
 [Wed Jan 28 11:58:01 2026 +0300] fix: correct pagination in course listing
 [Wed Jan 28 13:04:26 2026 +0300] chore: update environment configuration
+[Wed Jan 28 13:18:12 2026 +0300] refactor: improve authentication middleware
