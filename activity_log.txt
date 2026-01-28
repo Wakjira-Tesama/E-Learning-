@@ -364,3 +364,4 @@
 [Wed Jan 28 13:20:23 2026 +0300] docs: add course creation guidelines
 [Wed Jan 28 14:24:38 2026 +0300] feat: add course content management system
 [Wed Jan 28 15:31:02 2026 +0300] style: improve dashboard layout styling
+[Wed Jan 28 16:24:20 2026 +0300] docs: update README with features
