@@ -357,3 +357,4 @@
 [Tue Jan 27 22:39:00 2026 +0300] refactor: optimize image loading performance
 [Wed Jan 28 09:50:36 2026 +0300] fix: correct API error responses
 [Wed Jan 28 10:41:48 2026 +0300] docs: update API documentation
+[Wed Jan 28 11:38:37 2026 +0300] docs: add contribution guidelines
