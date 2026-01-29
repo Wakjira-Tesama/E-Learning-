@@ -374,3 +374,4 @@
 [Thu Jan 29 08:01:56 2026 +0300] docs: update README with features
 [Thu Jan 29 08:16:25 2026 +0300] fix: address notification delivery timing
 [Thu Jan 29 11:41:17 2026 +0300] test: add unit tests for course service
+[Thu Jan 29 11:45:19 2026 +0300] feat: add video player component for lessons
