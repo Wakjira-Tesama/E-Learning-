@@ -383,3 +383,4 @@
 [Thu Jan 29 16:19:56 2026 +0300] chore: update dependencies to latest versions
 [Thu Jan 29 17:32:34 2026 +0300] style: update typography across platform
 [Thu Jan 29 18:53:43 2026 +0300] refactor: restructure API endpoints
+[Thu Jan 29 19:39:55 2026 +0300] fix: correct user role permission checks
