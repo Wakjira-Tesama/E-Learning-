@@ -385,3 +385,4 @@
 [Thu Jan 29 18:53:43 2026 +0300] refactor: restructure API endpoints
 [Thu Jan 29 19:39:55 2026 +0300] fix: correct user role permission checks
 [Thu Jan 29 19:56:34 2026 +0300] refactor: improve error handling patterns
+[Thu Jan 29 20:05:40 2026 +0300] fix: address form validation errors
