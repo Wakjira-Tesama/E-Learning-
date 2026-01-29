@@ -371,3 +371,4 @@
 [Wed Jan 28 20:02:02 2026 +0300] docs: update README with features
 [Wed Jan 28 20:57:55 2026 +0300] feat: create admin dashboard components
 [Wed Jan 28 22:30:57 2026 +0300] feat: add course recommendation engine
+[Thu Jan 29 08:01:56 2026 +0300] docs: update README with features
