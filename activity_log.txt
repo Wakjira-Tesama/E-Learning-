@@ -396,3 +396,4 @@
 [Fri Jan 30 16:11:36 2026 +0300] chore: configure CI/CD pipeline
 [Fri Jan 30 17:52:52 2026 +0300] style: update course card design
 [Fri Jan 30 19:05:16 2026 +0300] refactor: improve authentication middleware
+[Fri Jan 30 19:38:29 2026 +0300] fix: correct user role permission checks
