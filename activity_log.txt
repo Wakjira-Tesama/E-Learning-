@@ -389,3 +389,4 @@
 [Fri Jan 30 08:52:10 2026 +0300] refactor: optimize database queries for courses
 [Fri Jan 30 09:45:46 2026 +0300] chore: configure linting rules
 [Fri Jan 30 11:34:17 2026 +0300] refactor: improve state management logic
+[Fri Jan 30 12:22:28 2026 +0300] refactor: improve authentication middleware
